@@ -12,6 +12,7 @@
 - [배열.length, 문자열.length(), 리스트.size()](https://velog.io/@seomiyoung1124/length-length)
 - [String.format()](https://velog.io/@seomiyoung1124/String.format-printf)
 - [StringBuilder](https://velog.io/@seomiyoung1124/StringBuilder)
+- [Stack과 Queue, 왜 Deque로 구현해야 할까?](https://velog.io/@seomiyoung1124/Stack%EA%B3%BC-Queue-%EC%99%9C-Deque%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 
 ## 알고리즘 풀이
 > 풀이 현황 기록
