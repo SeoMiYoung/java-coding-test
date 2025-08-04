@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/코딩테스트를%20위한%20JAVA%20개념%20바로가기-blue?style=for-the-badge)](https://github.com/사용자이름/저장소이름)
+
+
 ## 알고리즘 풀이
 > [!NOTE]
 > 풀이 현황 기록 방법<br/>
