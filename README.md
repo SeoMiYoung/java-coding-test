@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/코딩테스트를%20위한%20JAVA%20개념%20바로가기-blue?style=for-the-badge)](https://github.com/사용자이름/저장소이름)
+[![](https://img.shields.io/badge/코딩테스트를%20위한%20JAVA%20개념%20바로가기%20⇲-blue?style=for-the-badge)](https://velog.io/@seomiyoung1124/series/JAVA-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 
 ## 알고리즘 풀이
