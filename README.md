@@ -34,5 +34,5 @@
 ### $${\color{blue}SWEA}$$
 | 문제 번호 | 문제 이름     | 유형   | 레벨   | 풀이 현황 | 기타
 |:--------:|:------------:|:-----:|:------:|:--------:|:--------:|
-| 1210        | [N과 M](https://velog.io/@seomiyoung1124/JAVAD4-1210.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-2%EC%9D%BC%EC%B0%A8-Ladder1) | 단순 구현 | D4 |  ✅      | -     |
+| 1210        | [[S/W 문제해결 기본] 2일차 - Ladder1](https://velog.io/@seomiyoung1124/JAVAD4-1210.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-2%EC%9D%BC%EC%B0%A8-Ladder1) | 단순 구현 | D4 |  ✅      | -     |
 
