@@ -41,5 +41,5 @@
 | 1961        | [숫자 배열 회전](https://velog.io/@seomiyoung1124/JAVAD2-1961.-%EC%88%AB%EC%9E%90-%EB%B0%B0%EC%97%B4-%ED%9A%8C%EC%A0%84-dnfy5rvr) | 배열 회전 | D2 |   ✅     | -     |
 | 1210        | [[S/W 문제해결 기본] 2일차 - Ladder1](https://velog.io/@seomiyoung1124/JAVAD4-1210.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-2%EC%9D%BC%EC%B0%A8-Ladder1) | 단순 구현 | D4 |  ✅      | -     |
 | 6808        | [규영이와 인영이의 카드게임](https://velog.io/@seomiyoung1124/6808.-%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80-%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98-%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84) | 완전 탐색을 이용한 순열, 시뮬레이션, 백트래킹 | D3 |   ✅     | * 풀이 글에 백트래킹 주의 사항 다룸<br/>(원본 값 변경 여부)     |
-| 2001        | 파리퇴치 | 누적합 | D2 |        | -     |
+| 2001        | 파리퇴치 | 누적합 | D2 |        | * [누적합](https://github.com/SeoMiYoung/miyoung-zone/issues/17)     |
 | 5215        | 햄버거 다이어트 | 조합 | D3 |        | -     |
